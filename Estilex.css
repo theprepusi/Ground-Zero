@@ -4,7 +4,19 @@
 }
 
 .iconos-redes-header {
-    width: 20px;
+    width: 25px;
     margin: 10px 6px;
 
+}
+.BannerPaisaje {
+    background-image: url("./Imagenes/Paisaje.jpg");
+    padding: 200px 0;
+    position: relative;
+    text-align: center;
+}
+
+
+
+.paddi {
+    padding: 70px 0px;
 }
