@@ -1,8 +1,10 @@
 .logo-brand {
-    width: 150px;
+    width: 80px;
     padding: 10px 0;
 }
 
-ion-label{
-    color: green;
+.iconos-redes-header {
+    width: 20px;
+    margin: 10px 6px;
+
 }
