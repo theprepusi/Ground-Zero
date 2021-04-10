@@ -20,3 +20,13 @@
 .paddi {
     padding: 70px 0px;
 }
+
+body {
+    background: #000000;
+    background: linear-gradient(to right, #000000, #008f39, #000000)
+}
+
+.bg {
+    background-image: url(./Imagenes/bgregistro.jpg);
+    background-position: center center;
+}
